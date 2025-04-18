@@ -12,14 +12,13 @@ To contribute to business growth by utilizing data analysis and time series fore
 
 ## 🧩 Dataset Overview
 
-The dataset includes key fields such as:
+This project uses a **single Superstore dataset (CSV format)** that contains comprehensive sales data with the following key fields:
 
-- `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`
-- `Customer ID`, `Customer Name`, `Segment`
-- `Region`, `State`, `City`
-- `Category`, `Sub-Category`, `Product Name`
-- `Sales`, `Profit`, `Quantity`, `Returns`, `Payment Mode`
-- Custom indicators: `ind1`, `ind2`
+- **Order Details**: `Order ID`, `Order Date`, `Ship Date`, `Ship Mode`
+- **Customer Info**: `Customer ID`, `Customer Name`, `Segment`
+- **Geography**: `Region`, `State`, `City`
+- **Product Info**: `Category`, `Sub-Category`, `Product Name`
+- **Sales Metrics**: `Sales`, `Profit`, `Quantity`, `Returns`, `Payment Mode`
 
 ---
 
